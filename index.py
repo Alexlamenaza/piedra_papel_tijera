@@ -1,3 +1,3 @@
 # prueba de git
-name = "Ingresse nomnre"
+name = "Ingrese nombre"
 print("Ingrese su Nombre de Usuario")
