@@ -1,1 +1,1 @@
-print("Se crea otro archivo para trabajar")
+print("Este es otro index para trabajar")
