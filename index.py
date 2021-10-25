@@ -9,3 +9,5 @@ for x in range(101):
 print("Como no ingresaste un valor correcto la suma predeterminada es 1..100 ",suma)
 print("Como no ingresaste un valor correcto la suma predeterminada es 1..100 ",suma)
 print("welcome", name)
+
+resta=0
