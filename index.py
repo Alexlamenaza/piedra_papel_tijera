@@ -9,4 +9,3 @@ print("Como no ingresaste un valor correcto la suma predeterminada es 1..100 ",s
 print("Como no ingresaste un valor correcto la suma predeterminada es 1..100 ",suma)
 print("welcome")
 print("Cambio hecho por edinson")
-print("Cambio hecho por edinson")
