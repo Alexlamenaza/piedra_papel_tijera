@@ -1,0 +1,1 @@
+print("Se crea otro archivo para trabajar")
